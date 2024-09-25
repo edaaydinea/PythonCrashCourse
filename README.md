@@ -26,6 +26,20 @@ This section includes solutions to exercises from the book, organized by chapter
 *   [fampous\_quote.py](/Chapter2/famous_quote.py)
 *   [famous\_quote\_2.py](/Chapter2/famous_quote_2.py)
 
+### Chapter 3 Exercises
+
+*   [bicycles.ipynb](/Chapter3/bicycles.ipynb)
+*   [motorcycles.ipynb](/Chapter3/motorcycles.ipynb)
+*   [guestList.py](/Chapter3/guestList.py)
+*   [changingGuestList.py](/Chapter3/changingGuestList.py)
+*   [shrinkingGuestList.py](/Chapter3/shrinkingGuestList.py)
+*   [cars.ipynb](/Chapter3/cars.ipynb)
+*   [seeingTheWorld.py](/Chapter3/seeingTheWorld.py)
+*   [dinnerGuests.py](/Chapter3/dinnerGuests.py)
+*   [everyFunction.py](/Chapter3/everyFunction.py)
+*   [motorcycles.ipynb](/Chapter3/motorcycles.ipynb)
+*   [intentionalError.py](/Chapter3/intentionalError.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
