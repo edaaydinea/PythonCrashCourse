@@ -63,6 +63,26 @@ This section includes solutions to exercises from the book, organized by chapter
 * [dimensions.py](/Chapter4/dimensions.py)
 * [buffet.py](/Chapter4/buffet.py)
 
+# Chapter 5: If Statements
+
+* [cars.py](/Chapter5/cars.py)
+* [magic_number.py](/Chapter5/magic_number.py)
+* [banned_users.py](/Chapter5/banned_users.py)
+* [conditionalTests.py](/Chapter5/conditionalTests.py)
+* [moreConditionalTests.py](/Chapter5/moreConditionalTests.py)
+* [voting.py](/Chapter5/voting.py)
+* [amusement_park.py](/Chapter5/amusement_park.py)
+* [AlienColors1.py](/Chapter5/AlienColors1.py)
+* [AlienColors2.py](/Chapter5/AlienColors2.py)
+* [AlienColors3.py](/Chapter5/AlienColors3.py)
+* [stagesOfLife.py](/Chapter5/stagesOfLife.py)
+* [favoriteFruit.py](/Chapter5/favoriteFruit.py)
+* [toppings.py](/Chapter5/toppings.py)
+* [helloAdmin.py](/Chapter5/helloAdmin.py)
+* [noUsers.py](/Chapter5/noUsers.py)
+* [checkingUsernames.py](/Chapter5/checkingUsernames.py)
+* [ordinalNumbers.py](/Chapter5/ordinalNumbers.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
