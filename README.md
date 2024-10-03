@@ -131,6 +131,15 @@ This section includes solutions to exercises from the book, organized by chapter
 * [no_pastrami.py](/Chapter7/no_pastrami.py)
 * [dream_vacation.py](/Chapter7/dream_vacation.py)
 
+### Chapter 8: Functions
+* [greeter.py](/Chapter8/greeter.py)
+* [message.py](/Chapter8/message.py)
+* [favorite_book.py](/Chapter8/favorite_book.py)
+* [pets.py](/Chapter8/pets.py)
+* [tshirt.py](/Chapter8/tshirt.py)
+* [large_tshirt.py](/Chapter8/large_tshirt.py)
+* [cities.py](/Chapter8/cities.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
