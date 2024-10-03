@@ -107,6 +107,30 @@ This section includes solutions to exercises from the book, organized by chapter
 * [cities.py](/Chapter6/cities.py)
 * [extensions.py](/Chapter6/extensions.py)
 
+### Chapter 7: User Input and While Loops
+
+* [parrot.py](/Chapter7/parrot.py)
+* [greeter.py](/Chapter7/greeter.py)
+* [rollercoaster.py](/Chapter7/rollercoaster.py)
+* [even_or_odd.py](/Chapter7/even_or_odd.py)
+* [rental_car.py](/Chapter7/rental_car.py)
+* [restaurant_seating.py](/Chapter7/restaurant_seating.py)
+* [multiples_of_ten.py](/Chapter7/multiples_of_ten.py)
+* [counting.py](/Chapter7/counting.py)
+* [parrot2.py](/Chapter7/parrot2.py)
+* [cities.py](/Chapter7/cities.py)
+* [counting2.py](/Chapter7/counting2.py)
+* [pizza_toppings.py](/Chapter7/pizza_toppings.py)
+* [movie_tickets.py](/Chapter7/movie_tickets.py)
+* [three_exits.py](/Chapter7/three_exits.py)
+* [infinity.py](/Chapter7/infinity.py)
+* [confirmed_users.py](/Chapter7/confirmed_users.py)
+* [pets.py](/Chapter7/pets.py)
+* [mountain_poll.py](/Chapter7/mountain_poll.py)
+* [deli.py](/Chapter7/deli.py)
+* [no_pastrami.py](/Chapter7/no_pastrami.py)
+* [dream_vacation.py](/Chapter7/dream_vacation.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
