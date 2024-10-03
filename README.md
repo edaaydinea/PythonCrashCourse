@@ -63,7 +63,7 @@ This section includes solutions to exercises from the book, organized by chapter
 * [dimensions.py](/Chapter4/dimensions.py)
 * [buffet.py](/Chapter4/buffet.py)
 
-# Chapter 5: If Statements
+### Chapter 5: If Statements
 
 * [cars.py](/Chapter5/cars.py)
 * [magic_number.py](/Chapter5/magic_number.py)
@@ -82,6 +82,30 @@ This section includes solutions to exercises from the book, organized by chapter
 * [noUsers.py](/Chapter5/noUsers.py)
 * [checkingUsernames.py](/Chapter5/checkingUsernames.py)
 * [ordinalNumbers.py](/Chapter5/ordinalNumbers.py)
+
+### Chapter 6: Dictionaries
+
+* [aliens.py](/Chapter6/aliens.py)
+* [favorite_languages.py](/Chapter6/favorite_languages.py)
+* [alien_no_points.py](/Chapter6/alien_no_points.py)
+* [person.py](/Chapter6/person.py)
+* [favorite_numbers.py](/Chapter6/favorite_numbers.py)
+* [glossary.py](/Chapter6/glossary.py)
+* [users.py](/Chapter6/users.py)
+* [favorite_languages2.py](/Chapter6/favorite_languages2.py)
+* [glossary2.py](/Chapter6/glossary2.py)
+* [rivers.py](/Chapter6/rivers.py)
+* [polling.py](/Chapter6/polling.py)
+* [aliens2.py](/Chapter6/aliens2.py)
+* [pizza.py](/Chapter6/pizza.py)
+* [favorite_languages3.py](/Chapter6/favorite_languages3.py)
+* [many_users.py](/Chapter6/many_users.py)
+* [people.py](/Chapter6/people.py)
+* [pets.py](/Chapter6/pets.py)
+* [favorite_places.py](/Chapter6/favorite_places.py)
+* [favorite_numbers2.py](/Chapter6/favorite_numbers2.py)
+* [cities.py](/Chapter6/cities.py)
+* [extensions.py](/Chapter6/extensions.py)
 
 ## 🤝 Contributing
 
