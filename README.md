@@ -139,6 +139,7 @@ This section includes solutions to exercises from the book, organized by chapter
 * [tshirt.py](/Chapter8/tshirt.py)
 * [large_tshirt.py](/Chapter8/large_tshirt.py)
 * [cities.py](/Chapter8/cities.py)
+* [formatting_name.py](/Chapter8/formatting_name.py)
 
 ## 🤝 Contributing
 
