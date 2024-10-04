@@ -161,6 +161,30 @@ This section includes solutions to exercises from the book, organized by chapter
 * [imports.py](/Chapter8/imports.py)
 * [styling_functions.py](/Chapter8/styling_functions.py)
 
+
+### Chapter 9: Classes
+
+* [dog.py](/Chapter9/dog.py)
+* [restaurant.py](/Chapter9/restaurant.py)
+* [threeRestaurants.py](/Chapter9/threeRestaurants.py)
+* [users.py](/Chapter9/users.py)
+* [car.py](/Chapter9/car.py)
+* [numberServed.py](/Chapter9/numberServed.py)
+* [loginAttempts.py](/Chapter9/loginAttempts.py)
+* [electricCar.py](/Chapter9/electricCar.py)
+* [iceCreamStand.py](/Chapter9/iceCreamStand.py)
+* [admin.py](/Chapter9/admin.py)
+* [privileges.py](/Chapter9/privileges.py)
+* [myCar.py](/Chapter9/myCar.py)
+* [myElectricCar.py](/Chapter9/myElectricCar.py)
+* [myCars.py](/Chapter9/myCars.py)
+* [importedRestaurant.py](/Chapter9/importedRestaurant.py)
+* [importedAdmin.py](/Chapter9/importedAdmin.py)
+* [multipleModules.py](/Chapter9/multipleModules.py)
+* [dice.py](/Chapter9/dice.py)
+* [lottery.py](/Chapter9/lottery.py)
+* [lotteryAnalysis.py](/Chapter9/lotteryAnalysis.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
