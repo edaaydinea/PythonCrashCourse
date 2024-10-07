@@ -1,0 +1,3 @@
+In Python you can easily work with strings.
+In Python you can perform mathematical operations.
+In Python you can create functions to reuse code.
