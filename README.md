@@ -8,10 +8,6 @@ Welcome to the repository for **Python Crash Course** by **Eric Matthes**! This 
 * **Published:** 2016
 * **Description:** Python Crash Course is a hands-on, project-based introduction to programming in Python. It is designed for beginners who want to learn Python programming quickly, with a focus on practical exercises and real-world projects.
 
-## 📝 Notes
-
-This section contains organized notes from the book, summarizing key concepts and important points.
-
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
