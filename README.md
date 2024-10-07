@@ -185,6 +185,32 @@ This section includes solutions to exercises from the book, organized by chapter
 * [lottery.py](/Chapter9/lottery.py)
 * [lotteryAnalysis.py](/Chapter9/lotteryAnalysis.py)
 
+### Chapter 10: Files and Exceptions
+
+* [fileReader.py](/Chapter10/fileReader.py)
+* [pi_string.py](/Chapter10/pi_string.py)
+* [10_1: Learning Python](/Chapter10/10_1_LearningPython/learningPython.py)
+* [10.2: Learning C](/Chapter10/10_1_LearningC/learningC.py)
+* [writeMessage.py](/Chapter10/writeMessage.py)
+* [10_3: Guest](/Chapter10/10_3_Guest/guest.py)
+* [10_4: Guest Book](/Chapter10/10_4_GuestBook/guestBook.py)
+* [10_5: Programming Poll](/Chapter10/10_5_ProgrammingPoll/programmingPoll.py)
+* [division_calculator.py](/Chapter10/division_calculator.py)
+* [alice.py](/Chapter10/alice.py)
+* [word_count.py](/Chapter10/word_count.py)
+* [10_6: Addition](/Chapter10/10_6_Addition/addition.py)
+* [10_7: Addition Calculator](/Chapter10/10_7_AdditionCalculator/additionCalculator.py)
+* [10_8: Cats and Dogs](/Chapter10/10_8_CatsAndDogs/catsAndDogs.py)
+* [10_9: Silent Cats and Dogs](/Chapter10/10_9_SilentCatsAndDogs/silentCatsAndDogs.py)
+* [10_10: Common Words](/Chapter10/10_10_CommonWords/commonWords.py)
+* [number_writer.py](/Chapter10/number_writer.py)
+* [number_reader.py](/Chapter10/number_reader.py)
+* [remember_me.py](/Chapter10/remember_me.py)
+* [greeter_user.py](/Chapter10/greeter_user.py)
+* [10_11: Favorite Number](/Chapter10/10_11_FavoriteNumber/favoriteNumber.py)
+* [10_12: Favorite Number Remembered](/Chapter10/10_12_FavoriteNumberRemembered/favoriteNumberRemembered.py)
+* [10_13: Verify User](/Chapter10/10_13_VerifyUser/verifyUser.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
