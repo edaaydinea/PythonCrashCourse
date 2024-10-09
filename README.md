@@ -207,6 +207,18 @@ This section includes solutions to exercises from the book, organized by chapter
 * [10_12: Favorite Number Remembered](/Chapter10/10_12_FavoriteNumberRemembered/favoriteNumberRemembered.py)
 * [10_13: Verify User](/Chapter10/10_13_VerifyUser/verifyUser.py)
 
+### Chapter 11: Testing Your Code
+
+* [name_function.py](/Chapter11/name_function.py)
+* [names.py](/Chapter11/names.py)
+* [test_name_function.py](/Chapter11/test_name_function.py)
+* [11_1: City, Country](/Chapter11/11_1_CityCountry/cityCountry.py)
+* [11_2: Population](/Chapter11/11_2_Population/population.py)
+* [survey.py](/Chapter11/survey.py)
+* [language_survey.py](/Chapter11/language_survey.py)
+* [test_survey.py](/Chapter11/test_survey.py)
+* [11_3: Employee](/Chapter11/11_3_Employee/employee.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
