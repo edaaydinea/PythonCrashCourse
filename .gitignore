@@ -1,21 +1,14 @@
-.idea/.gitignore
-.idea/git_toolbox_blame.xml
-.idea/git_toolbox_prj.xml
-.idea/material_theme_project_new.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/PythonCrashCourse.iml
-.idea/vcs.xml
-.idea/inspectionProfiles/profiles_settings.xml
-Chapter9/__pycache__/admin.cpython-312.pyc
-Chapter9/__pycache__/car.cpython-312.pyc
-Chapter9/__pycache__/electricCar.cpython-312.pyc
-Chapter9/__pycache__/privileges.cpython-312.pyc
-Chapter9/__pycache__/restaurant.cpython-312.pyc
-Chapter9/__pycache__/user2.cpython-312.pyc
-Chapter9/__pycache__/users.cpython-312.pyc
-Chapter8/__pycache__/greet_functions.cpython-312.pyc
-Chapter8/__pycache__/greet_users.cpython-312.pyc
-Chapter8/__pycache__/pizza.cpython-312.pyc
-Chapter8/__pycache__/printing_models2.cpython-312.pyc
-.idea/codeStyles/codeStyleConfig.xml
+# Ignore all .idea project settings
+.idea/
+
+# Ignore all __pycache__ directories recursively
+**/__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python Crash Course project specific files
+*.iml
+
+# Ignore the materials folder
+materials/
