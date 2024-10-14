@@ -217,7 +217,57 @@ This section includes solutions to exercises from the book, organized by chapter
 * [survey.py](/Chapter11/survey.py)
 * [language_survey.py](/Chapter11/language_survey.py)
 * [test_survey.py](/Chapter11/test_survey.py)
-* [11_3: Employee](/Chapter11/11_3_Employee/employee.py)
+* [11_3: Employee](/Chapter11/11_3_Employee/employee.py) 
+
+
+### Chapter 12: A Ship That Fires Bullets
+
+* [alien_invasion.py](/Chapter12/alien_invasion.py)
+* [settings.py](/Chapter12/settings.py)
+* [bullet.py](/Chapter12/bullet.py)
+* [ship.py](/Chapter12/ship.py)
+* [try_it_yourself.py](/Chapter12/try_it_yourself.py)
+
+### Chapter 13: Aliens!
+
+* [alien_invasion.py](/Chapter13/alien_invasion.py)
+* [settings.py](/Chapter13/settings.py)
+* [bullet.py](/Chapter13/bullet.py)
+* [ship.py](/Chapter13/ship.py)
+* [alien.py](/Chapter13/alien.py)
+* [game_stats.py](/Chapter13/game_stats.py)
+
+### Chapter 14: Scoring
+
+* [alien_invasion.py](/Chapter14/alien_invasion.py)
+* [settings.py](/Chapter14/settings.py)
+* [bullet.py](/Chapter14/bullet.py)
+* [ship.py](/Chapter14/ship.py)
+* [alien.py](/Chapter14/alien.py)
+* [game_stats.py](/Chapter14/game_stats.py)
+* [button.py](/Chapter14/button.py)
+* [scoreboard.py](/Chapter14/scoreboard.py)
+
+### Chapter 15: Generate Data
+
+* [save_fig.py](/Chapter15/save_fig.py)
+* [mpl_squares.py](/Chapter15/mpl_squares.py)
+* [scatter_squares.py](/Chapter15/scatter_squares.py)
+* [cubes.py](/Chapter15/cubes.py)
+* [colored_cubes.py](/Chapter15/colored_cubes.py)
+* [random_walk.py](/Chapter15/random_walk.py)
+* [rw_visual.py](/Chapter15/rw_visual.py)
+* [molecular_motion.py](/Chapter15/molecular_motion.py)
+* [modified_random_walks.py](/Chapter15/modified_random_walks.py)
+* [rw_visual2.py](/Chapter15/rw_visual2.py)
+* [refactored_random_walk.py](/Chapter15/refactored_random_walk.py)
+* [die.py](/Chapter15/die.py)
+* [die_visual.py](/Chapter15/die_visual.py)
+* [two_D8s.py](/Chapter15/two_D8s.py)
+* [three_dice.py](/Chapter15/three_dice.py)
+* [multiplication.py](/Chapter15/multiplication.py)
+* [practice.py](/Chapter15/practice.py)
+
 
 ## 🤝 Contributing
 
