@@ -268,6 +268,20 @@ This section includes solutions to exercises from the book, organized by chapter
 * [multiplication.py](/Chapter15/multiplication.py)
 * [practice.py](/Chapter15/practice.py)
 
+### Chapter 16: Downloading Data
+
+* [sitka_highs.py](/Chapter16/sitka_highs.py)
+* [sitka_highs_lows.py](/Chapter16/sitka_highs_lows.py)
+* [death_valley_highs_lows.py](/Chapter16/death_valley_highs_lows.py)
+* [sitka_rainfall.py](/Chapter16/sitka_rainfall.py)
+* [sitka_death_valley_comparison.py](/Chapter16/sitka_death_valley_comparison.py)
+* [automatic_indexes.py](/Chapter16/automatic_indexes.py)
+* [eq_explore_data.py](/Chapter16/eq_explore_data.py)
+* [eq_world_map.py](/Chapter16/eq_world_map.py)
+* [show_color_scales.py](/Chapter16/show_color_scales.py)
+* [refactoring.py](/Chapter16/refactoring.py)
+* [automated_title.py](/Chapter16/automated_title.py)
+
 
 ## 🤝 Contributing
 
