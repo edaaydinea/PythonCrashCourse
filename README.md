@@ -283,6 +283,43 @@ This section includes solutions to exercises from the book, organized by chapter
 * [automated_title.py](/Chapter16/automated_title.py)
 
 
+### Chapter 17: Working with APIs
+
+* [python_repos.py](/Chapter17/python_repos.py)
+* [python_repos_visual.py](/Chapter17/python_repos_visual.py)
+  * [python_repos1.html](/Chapter17/python_repos1.html)
+  * [python_repos1.png](/Chapter17/images/python_repos1.png)
+  * [python_repos2.html](/Chapter17/python_repos2.html)
+  * [python_repos2.png](/Chapter17/images/python_repos2.png)
+  * [python_repos3.html](/Chapter17/python_repos3.html)
+  * [python_repos3.png](/Chapter17/images/python_repos3.png)
+  * [python_repos4.html](/Chapter17/python_repos4.html)
+  * [python_repos4.png](/Chapter17/images/python_repos4.png)
+  * [python_repos5.html](/Chapter17/python_repos5.html)
+  * [python_repos5.png](/Chapter17/images/python_repos5.png)
+* [hn_article.py](/Chapter17/hn_article.py)
+  * [hn_article.json](/Chapter17/hn_article.json)
+* [hn_submissions.py](/Chapter17/hn_submissions.py)
+* [other_languages.py](/Chapter17/other_languages.py)
+  * [javascript_repos.html](/Chapter17/javascript_repos.html)
+  * [javascript_repos.png](/Chapter17/images/javascript_repos.png)
+  * [ruby_repos.html](/Chapter17/ruby_repos.html)
+  * [ruby_repos.png](/Chapter17/images/ruby_repos.png)
+  * [c_repos.html](/Chapter17/c_repos.html)
+  * [c_repos.png](/Chapter17/images/c_repos.png)
+  * [java_repos.html](/Chapter17/java_repos.html)
+  * [java_repos.png](/Chapter17/images/java_repos.png)
+  * [perl_repos.html](/Chapter17/perl_repos.html)
+  * [perl_repos.png](/Chapter17/images/perl_repos.png)
+  * [haskell_repos.html](/Chapter17/haskell_repos.html)
+  * [haskell_repos.png](/Chapter17/images/haskell_repos.png)
+  * [go_repos.html](/Chapter17/go_repos.html)
+  * [go_repos.png](/Chapter17/images/go_repos.png)
+* [active_discussions.py](/Chapter17/active_discussions.py)
+  * [hn_discussions.html](/Chapter17/hn_discussions.html)
+  * [hn_discussions.png](/Chapter17/images/hn_discussions.png)
+* [testing_python_repos.py](/Chapter17/testing_python_repos.py)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request.
